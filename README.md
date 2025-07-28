@@ -22,10 +22,14 @@
 
 ## 👨‍💻 About Me
 
-🌟 Featured Projects
-Project	Description	Tech Stack	Live Demo
-🎬 MovieFlix	Modern movie streaming platform	React, TMDB API, Material UI	Live
-🛍️ DessieMart	E-commerce platform	Next.js, Stripe, Tailwind	Live
+<h3> 🌟 Featured Projects </h3>
+
+| Project        | Description                     | Tech Stack                   | Live Demo                                      |
+| -------------- | ------------------------------- | ---------------------------- | ---------------------------------------------- |
+| 🎬 MovieFlix   | Modern movie streaming platform | React, TMDB API, Material UI | [Live](https://dessiemoviecenter.netlify.app/) |
+| 🛍️ DessieMart | E-commerce platform             | Next.js, Stripe, Tailwind    | [Live](https://dessiemart.netlify.app/)        |
+
+
 
 🛠️ Tech Stack & Badges
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,materialui,tailwind,figma,git,github,vscode" /> </div>
