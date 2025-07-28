@@ -23,16 +23,7 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const amir = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python"],
-  frameworks: ["React", "Next.js", "Node.js"],
-  tools: ["VS Code", "Git", "Figma"],
-  architecture: ["microservices", "PWA", "SPA"],
-  funFact: "I can debug React hooks faster than microwaving popcorn",
-  currentFocus: "Building accessible web applications"
-};
+
 
 
 🌟 Featured Projects
@@ -46,3 +37,5 @@ Project	Description	Tech Stack	Live Demo
 
 👀 Visitors
 <div align="center"> <img src="https://profile-counter.glitch.me/amir-mesfin/count.svg" /> </div>
+
+
