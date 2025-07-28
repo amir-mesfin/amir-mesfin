@@ -26,8 +26,12 @@
 
 | Project        | Description                     | Tech Stack                   | Live Demo                                      |
 | -------------- | ------------------------------- | ---------------------------- | ---------------------------------------------- |
-| 🎬 MovieFlix   | Modern movie streaming platform | <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css" /> </div> | [Live](https://dessiemoviecenter.netlify.app/) |
-| 🛍️ DessieMart | E-commerce platform             |   <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css,expressjs,firebase" /> </div> stripe,    | [Live](https://dessiemart.netlify.app/)        |
+| <h4> 🎬Movie-Streaming-App</h4> | Modern movie streaming platform | <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css" /> </div> |<a href="https://dessiemoviecenter.netlify.app/">
+    <img src="https://img.shields.io/badge/🎬_Movie_App-FF5722?style=for-the-badge" alt="Movie App">
+  </a>|
+| <h4> 🛍️ DessieMart</h4> | E-commerce platform             |   <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css,expressjs,firebase" /> </div> stripe,    | <a href="https://dessiemart.netlify.app/">
+    <img src="https://img.shields.io/badge/🛒_E-commerce-4CAF50?style=for-the-badge" alt="E-commerce">
+  </a>       |
 
 
 
