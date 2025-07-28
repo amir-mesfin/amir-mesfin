@@ -23,6 +23,17 @@
 
 ## 👨‍💻 About Me
 
+const amir = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "TypeScript", "Python"],
+  frameworks: ["React", "Next.js", "Node.js"],
+  tools: ["VS Code", "Git", "Figma"],
+  architecture: ["microservices", "PWA", "SPA"],
+  funFact: "I can debug React hooks faster than microwaving popcorn",
+  currentFocus: "Building accessible web applications"
+};
+
+
 
 
 
