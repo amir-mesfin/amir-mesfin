@@ -3,7 +3,7 @@
 
 <img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/github-header.gif?raw=true" alt="Header" height="278" width="700"/>
 
-<h1>✨ Hello World! I'm Amir Mesfin Seid ✨</h1>
+<h1>✨  I'm Amir Mesfin ✨</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 
