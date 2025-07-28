@@ -32,6 +32,7 @@ const amir = {
   funFact: "I can debug React hooks faster than microwaving popcorn",
   currentFocus: "Building accessible web applications"
 };
+```
 🌟 Featured Projects
 Project	Description	Tech Stack	Live Demo
 🎬 MovieFlix	Modern movie streaming platform	React, TMDB API, Material UI	Live
