@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/github-header.gif?raw=true" alt="Header" />
+<img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/github-header.gif?raw=true" alt="Header" height="278"/>
 
 <h1>✨ Hello World! I'm Amir Mesfin Seid ✨</h1>
 
