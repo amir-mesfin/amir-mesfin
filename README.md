@@ -33,3 +33,16 @@ const amir = {
   funFact: "I can debug React hooks faster than microwaving popcorn",
   currentFocus: "Building accessible web applications"
 };
+
+
+🌟 Featured Projects
+Project	Description	Tech Stack	Live Demo
+🎬 MovieFlix	Modern movie streaming platform	React, TMDB API, Material UI	Live
+🛍️ DessieMart	E-commerce platform	Next.js, Stripe, Tailwind	Live
+
+📫 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/amir-mesfin-803669362/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/amir-mesfin"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:amir.mesfin136@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/abushe336"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </div>
+
+
+👀 Visitors
+<div align="center"> <img src="https://profile-counter.glitch.me/amir-mesfin/count.svg" /> </div>
