@@ -20,7 +20,13 @@
 
 ---
 
-## 👨‍💻 About Me
+<h3>👨‍💻 About Me </h3>
+💻 Full Stack Explorer: Currently learning and building projects with JavaScript, React, Node.js, and Tailwind CSS.
+🌱 Never Stop Learning: Focused on mastering full stack web development, from frontend design to backend APIs and databases.
+⚡ Tech Enthusiast: Excited by cutting-edge tools, frameworks, and cloud technologies that make apps faster and smarter.
+🚀 Project Builder: Love turning ideas into real products, whether it’s a web app, an API, or a data-driven tool.
+🤝 Open to Collaborate: Especially on projects in web development, AI integrations, and open source.
+
 
 <h3> 🌟 Featured Projects </h3>
 
