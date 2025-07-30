@@ -59,6 +59,14 @@
     margin-bottom: 5px; 
     position: relative; 
     display: inline-block;">
+<div align="center" style="margin-top: 20px; animation: fadeIn 1.5s ease-in-out;">
+
+  <h4 style="
+    font-size: 24px; 
+    color: #00bfff; 
+    margin-bottom: 10px; 
+    position: relative; 
+    display: inline-block;">
     📊 GitHub Stats
     <span style="
       display: block;
@@ -71,15 +79,19 @@
     </span>
   </h4>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-mesfin&show_icons=true&theme=radical&hide_border=true" 
-       alt="GitHub Stats" 
-       style="width: 80%; max-width: 600px; margin: 15px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-mesfin&layout=compact&theme=radical&hide_border=true" 
-       alt="Top Languages" 
-       style="width: 80%; max-width: 600px; margin: 15px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  <div style="
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+    margin: 15px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=amir-mesfin&show_icons=true&theme=radical&hide_border=true" 
+         alt="GitHub Stats" 
+         style="width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-mesfin&layout=compact&theme=radical&hide_border=true" 
+         alt="Top Languages" 
+         style="width: 300px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  </div>
 
   <img src="https://streak-stats.demolab.com/?user=amir-mesfin&theme=radical&hide_border=true" 
        alt="GitHub Streak" 
@@ -98,6 +110,7 @@
   }
 }
 </style>
+
 
 <h4> 📫 Let's Connect </h4>
 <div align="center">
