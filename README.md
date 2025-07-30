@@ -20,17 +20,20 @@
 
 ---
 
-<h3>👨‍💻 About Me </h3>
-💻 Full Stack Explorer: Currently learning and building projects with JavaScript, React, Node.js, and Tailwind CSS.
-
-
-🌱 Never Stop Learning: Focused on mastering full stack web development, from frontend design to backend APIs and databases.
-
-⚡ Tech Enthusiast: Excited by cutting-edge tools, frameworks, and cloud technologies that make apps faster and smarter.
-
-🚀 Project Builder: Love turning ideas into real products, whether it’s a web app, an API, or a data-driven tool.
-
-🤝 Open to Collaborate: Especially on projects in web development, AI integrations, and open source.
+<div align="center">
+  <h3 style="font-size: 26px; color: #00bfff;">👨‍💻 About Me</h3>
+  <p style="color: #f5f5f5; font-size: 17px; max-width: 600px; margin: auto; line-height: 1.6;">
+    💻 <span style="color: #ff7f50;"><strong>Full Stack Explorer:</strong></span> Currently learning and building projects with <span style="color: #f0db4f;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #68a063;">Node.js</span>, and <span style="color: #38bdf8;">Tailwind CSS</span>.
+    <br><br>
+    🌱 <span style="color: #7fff00;"><strong>Never Stop Learning:</strong></span> Focused on mastering full stack web development, from frontend design to backend APIs and databases.
+    <br><br>
+    ⚡ <span style="color: #dda0dd;"><strong>Tech Enthusiast:</strong></span> Excited by cutting-edge tools, frameworks, and cloud technologies that make apps faster and smarter.
+    <br><br>
+    🚀 <span style="color: #ff69b4;"><strong>Project Builder:</strong></span> Love turning ideas into real products, whether it’s a web app, an API, or a data-driven tool.
+    <br><br>
+    🤝 <span style="color: #1e90ff;"><strong>Open to Collaborate:</strong></span> Especially on projects in web development, AI integrations, and open source.
+  </p>
+</div>
 
 
 <h3> 🌟 Featured Projects </h3>
