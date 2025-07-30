@@ -98,20 +98,6 @@
        style="width: 80%; max-width: 600px; margin: 15px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </div>
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes shimmer {
-  to {
-    background-position: -200% center;
-  }
-}
-</style>
-
-
 <h4> 📫 Let's Connect </h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/amir-mesfin-803669362/">
@@ -128,6 +114,4 @@
   </a>
 </div>
 
- <h4>👀 Visitors </h4>
-<div align="center"> <img src="https://profile-counter.glitch.me/amir-mesfin/count.svg" /> </div>
-<div align="center"> <img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/footer.gif?raw=true" alt="Footer" /> </div> 
+
