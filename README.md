@@ -49,7 +49,21 @@
  <h4>📊 GitHub Stats </h4>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amir-mesfin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-mesfin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <br/> <img src="https://streak-stats.demolab.com/?user=amir-mesfin&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
 <h4> 📫 Let's Connect </h4>
-<div align="center"> <a href="https://www.linkedin.com/in/amir-mesfin-803669362/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/amir-mesfin"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:amir.mesfin136@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/abushe336"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/amir-mesfin-803669362/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/amir-mesfin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:amir.mesfin136@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/abushe136">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
  <h4>👀 Visitors </h4>
 <div align="center"> <img src="https://profile-counter.glitch.me/amir-mesfin/count.svg" /> </div>
 <div align="center"> <img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/footer.gif?raw=true" alt="Footer" /> </div> 
