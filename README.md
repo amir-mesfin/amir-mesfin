@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amir-mesfin&style=for-the-badge&color=ff69b4" alt="Profile views"/>
+</div>
 
 <div align="center">
 
-<img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/github-header.gif?raw=true" alt="Header" height="278" width="700"/>
+<img src="https://github.com/amir-mesfin/amir-mesfin/blob/main/assets/github-header.gif?raw=true" alt="Header" height="238" width="700"/>
 
 <h1>✨  I'm Amir Mesfin ✨</h1>
 
