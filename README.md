@@ -47,10 +47,58 @@
 
 <h4>🛠️ Tech Stack & Badges </h4>
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,materialui,tailwind,figma,git,github,vscode" /> </div>
-<h4> 🏆 GitHub Trophies  </h4>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amir-mesfin&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" /> </div>
- <h4>📊 GitHub Stats </h4>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amir-mesfin&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-mesfin&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <br/> <img src="https://streak-stats.demolab.com/?user=amir-mesfin&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+<div align="center">
+  <h4 style="font-size: 24px; color: #ff8c00; margin-bottom: 10px;">🏆 GitHub Trophies</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=amir-mesfin&theme=radical&no-frame=true&margin-w=10&row=1&column=8" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+</div>
+<div align="center" style="margin-top: 20px; animation: fadeIn 1.5s ease-in-out;">
+
+  <h4 style="
+    font-size: 24px; 
+    color: #00bfff; 
+    margin-bottom: 5px; 
+    position: relative; 
+    display: inline-block;">
+    📊 GitHub Stats
+    <span style="
+      display: block;
+      height: 3px;
+      background: linear-gradient(90deg, #ff7f50, #ff1493, #00bfff);
+      border-radius: 2px;
+      margin-top: 4px;
+      background-size: 200% auto;
+      animation: shimmer 2s linear infinite;">
+    </span>
+  </h4>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-mesfin&show_icons=true&theme=radical&hide_border=true" 
+       alt="GitHub Stats" 
+       style="width: 80%; max-width: 600px; margin: 15px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-mesfin&layout=compact&theme=radical&hide_border=true" 
+       alt="Top Languages" 
+       style="width: 80%; max-width: 600px; margin: 15px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+
+  <img src="https://streak-stats.demolab.com/?user=amir-mesfin&theme=radical&hide_border=true" 
+       alt="GitHub Streak" 
+       style="width: 80%; max-width: 600px; margin: 15px 0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+</div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes shimmer {
+  to {
+    background-position: -200% center;
+  }
+}
+</style>
+
 <h4> 📫 Let's Connect </h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/amir-mesfin-803669362/">
