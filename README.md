@@ -7,15 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 
-<div>
-  <a href="https://dessiemoviecenter.netlify.app/">
-    <img src="https://img.shields.io/badge/🎬_Movie_App-FF5722?style=for-the-badge" alt="Movie App">
-  </a>
-  <a href="https://dessiemart.netlify.app/">
-    <img src="https://img.shields.io/badge/🛒_E-commerce-4CAF50?style=for-the-badge" alt="E-commerce">
-  </a>
-</div>
-
 </div>
 
 ---
