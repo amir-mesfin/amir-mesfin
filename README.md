@@ -16,9 +16,8 @@
 
 <div align="center">
   <h3 style="font-size: 26px; color: #00bfff;">👨‍💻 About Me</h3>
-  <p style="color: #f5f5f5; font-size: 17px; max-width: 600px; margin: auto; line-height: 1.6;">
+  <ul style="color: #f5f5f5; font-size: 17px; max-width: 600px; margin: auto; line-height: 1.6;">
     💻 <span style="color: #ff7f50;"><strong>Full Stack Explorer:</strong></span> Currently learning and building projects with <span style="color: #f0db4f;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #68a063;">Node.js</span>, and <span style="color: #38bdf8;">Tailwind CSS</span>.
-    <br><br>
     🌱 <span style="color: #7fff00;"><strong>Never Stop Learning:</strong></span> Focused on mastering full stack web development, from frontend design to backend APIs and databases.
     <br><br>
     ⚡ <span style="color: #dda0dd;"><strong>Tech Enthusiast:</strong></span> Excited by cutting-edge tools, frameworks, and cloud technologies that make apps faster and smarter.
@@ -26,7 +25,7 @@
     🚀 <span style="color: #ff69b4;"><strong>Project Builder:</strong></span> Love turning ideas into real products, whether it’s a web app, an API, or a data-driven tool.
     <br><br>
     🤝 <span style="color: #1e90ff;"><strong>Open to Collaborate:</strong></span> Especially on projects in web development, AI integrations, and open source.
-  </p>
+  </ul>
 </div>
 
 
@@ -35,7 +34,7 @@
 | Project        | Description                     | Tech Stack                   | Live Demo                                      |
 | -------------- | ------------------------------- | ---------------------------- | ---------------------------------------------- |
 | <h4> 🎬Movie-Streaming-App</h4> | Modern movie streaming platform | <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css" /> </div> |<a href="https://dessiemoviecenter.netlify.app/"><img src="https://img.shields.io/badge/🎬_Movie_App-FF5722?style=for-the-badge" alt="Movie App"></a>|
-| <h4> 🛍️ DessieMart</h4> | E-commerce platform    |   <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css,expressjs,firebase" /> </div> stripe,    | <a href="https://dessiemart.netlify.app/"><img src="https://img.shields.io/badge/🛒_E-commerce-4CAF50?style=for-the-badge" alt="E-commerce"></a>       |
+| <h4> 🛍️ DessieMart</h4> | E-commerce platform    |   <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css,expressjs,firebase" /> </div> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">    | <a href="https://dessiemart.netlify.app/"><img src="https://img.shields.io/badge/🛒_E-commerce-4CAF50?style=for-the-badge" alt="E-commerce"></a>       |
 
 
 
