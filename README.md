@@ -15,16 +15,33 @@
 ---
 
 <div align="center">
-  <h3 style="font-size: 26px; color: #00bfff;">👨‍💻 About Me</h3>
-  <ul style="color: #f5f5f5; font-size: 17px; max-width: 600px; margin: auto; line-height: 1.6;">
-    💻 <span style="color: #ff7f50;"><strong>Full Stack Explorer:</strong></span> Currently learning and building projects with <span style="color: #f0db4f;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #68a063;">Node.js</span>, and <span style="color: #38bdf8;">Tailwind CSS</span>.
-    🌱 <span style="color: #7fff00;"><strong>Never Stop Learning:</strong></span> Focused on mastering full stack web development, from frontend design to backend APIs and databases.
-    <br><br>
-    ⚡ <span style="color: #dda0dd;"><strong>Tech Enthusiast:</strong></span> Excited by cutting-edge tools, frameworks, and cloud technologies that make apps faster and smarter.
-    <br><br>
-    🚀 <span style="color: #ff69b4;"><strong>Project Builder:</strong></span> Love turning ideas into real products, whether it’s a web app, an API, or a data-driven tool.
-    <br><br>
-    🤝 <span style="color: #1e90ff;"><strong>Open to Collaborate:</strong></span> Especially on projects in web development, AI integrations, and open source.
+  <h3 style="font-size: 26px; color: #00bfff; margin-bottom: 20px; text-shadow: 0 2px 4px rgba(0,0,0,0.1);">👨‍💻 About Me</h3>
+  
+  <ul style="list-style-type: none; padding: 0; max-width: 650px; margin: 0 auto; text-align: left;">
+    <li style="margin-bottom: 15px; padding-left: 30px; position: relative; color: #e0e0e0; font-size: 16px; line-height: 1.6;">
+      <span style="position: absolute; left: 0; color: #ff7f50;">•</span>
+      <strong style="color: #ff7f50;">Full Stack Developer</strong> - Building with <span style="color: #f0db4f;">JavaScript</span>, <span style="color: #61dafb;">React</span>, <span style="color: #68a063;">Node.js</span>, and <span style="color: #38bdf8;">Tailwind</span>
+    </li>
+    
+    <li style="margin-bottom: 15px; padding-left: 30px; position: relative; color: #e0e0e0; font-size: 16px; line-height: 1.6;">
+      <span style="position: absolute; left: 0; color: #7fff00;">•</span>
+      <strong style="color: #7fff00;">Continuous Learner</strong> - Mastering modern web development from UI to databases
+    </li>
+    
+    <li style="margin-bottom: 15px; padding-left: 30px; position: relative; color: #e0e0e0; font-size: 16px; line-height: 1.6;">
+      <span style="position: absolute; left: 0; color: #dda0dd;">•</span>
+      <strong style="color: #dda0dd;">Tech Explorer</strong> - Passionate about cutting-edge tools and cloud technologies
+    </li>
+    
+    <li style="margin-bottom: 15px; padding-left: 30px; position: relative; color: #e0e0e0; font-size: 16px; line-height: 1.6;">
+      <span style="position: absolute; left: 0; color: #ff69b4;">•</span>
+      <strong style="color: #ff69b4;">Product Builder</strong> - Transforming ideas into functional web applications
+    </li>
+    
+    <li style="margin-bottom: 15px; padding-left: 30px; position: relative; color: #e0e0e0; font-size: 16px; line-height: 1.6;">
+      <span style="position: absolute; left: 0; color: #1e90ff;">•</span>
+      <strong style="color: #1e90ff;">Open Collaborator</strong> - Excited to work on web projects and open source
+    </li>
   </ul>
 </div>
 
