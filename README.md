@@ -11,34 +11,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Frontend+Developer;MERN+Stack+Explorer;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 
 </div>
-
----
 <div align="center" style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 650px; margin: 0 auto; padding: 20px;">
-  <h3 style="font-size: 24px; color: #333; margin-bottom: 15px; font-weight: 600;">👨‍💻 About Me</h3>
+  <h3 style="font-size: 24px; color: #333; margin-bottom: 20px; font-weight: 600;">👨‍💻 About Me</h3>
   
-  <div style="text-align: left; background: white; border-radius: 8px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="margin-bottom: 12px; padding-left: 22px; position: relative; color: #444; font-size: 16px; line-height: 1.5;">
-        <span style="position: absolute; left: 0; color: #4F46E5;">•</span>
-        <strong style="color: #4F46E5;">Full Stack Developer</strong> - Building with JavaScript, React, Node.js, and Tailwind
-      </li>
-      <li style="margin-bottom: 12px; padding-left: 22px; position: relative; color: #444; font-size: 16px; line-height: 1.5;">
-        <span style="position: absolute; left: 0; color: #4F46E5;">•</span>
-        <strong style="color: #4F46E5;">Continuous Learner</strong> - Mastering modern web development
-      </li>  
-      <li style="margin-bottom: 12px; padding-left: 22px; position: relative; color: #444; font-size: 16px; line-height: 1.5;">
-        <span style="position: absolute; left: 0; color: #4F46E5;">•</span>
-        <strong style="color: #4F46E5;">Tech Explorer</strong> - Passionate about cutting-edge tools
-      </li>
-      <li style="margin-bottom: 12px; padding-left: 22px; position: relative; color: #444; font-size: 16px; line-height: 1.5;">
-        <span style="position: absolute; left: 0; color: #4F46E5;">•</span>
-        <strong style="color: #4F46E5;">Product Builder</strong> - Transforming ideas into web apps
-      </li>
-      <li style="padding-left: 22px; position: relative; color: #444; font-size: 16px; line-height: 1.5;">
-        <span style="position: absolute; left: 0; color: #4F46E5;">•</span>
-        <strong style="color: #4F46E5;">Open Collaborator</strong> - Excited to work on projects
-      </li>
-    </ul>
+  <div style="text-align: center; background: white; border-radius: 8px; padding: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
+    <p style="margin: 0 0 15px 0; color: #444; font-size: 16px; line-height: 1.6;">
+      <strong style="color: #4F46E5;">Full Stack Developer</strong> - Building with JavaScript, React, Node.js, and Tailwind
+    </p>
+    <p style="margin: 0 0 15px 0; color: #444; font-size: 16px; line-height: 1.6;">
+      <strong style="color: #4F46E5;">Continuous Learner</strong> - Mastering modern web development
+    </p>
+    <p style="margin: 0 0 15px 0; color: #444; font-size: 16px; line-height: 1.6;">
+      <strong style="color: #4F46E5;">Tech Explorer</strong> - Passionate about cutting-edge tools
+    </p>
+    <p style="margin: 0 0 15px 0; color: #444; font-size: 16px; line-height: 1.6;">
+      <strong style="color: #4F46E5;">Product Builder</strong> - Transforming ideas into web apps
+    </p>
+    <p style="margin: 0; color: #444; font-size: 16px; line-height: 1.6;">
+      <strong style="color: #4F46E5;">Open Collaborator</strong> - Excited to work on projects
+    </p>
   </div>
 </div>
 
