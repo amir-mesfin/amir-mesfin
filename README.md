@@ -1,12 +1,15 @@
 <div align="center">
 <!-- 💀 Hacker-Style GitHub Profile Banner for Amir Mesfin -->
 
+<!-- 💀 Hacker-Style GitHub Profile Banner for Amir Mesfin -->
+
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amir%20Mesfin%20💻&fontAlign=50&fontAlignY=40&color=0:001a00,100:00ff99&fontColor=00ff99&fontSize=50&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20React%20%7C%20Cyber%20UI%2FUX&descAlignY=60&descAlign=50&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amir%20Mesfin%20💻&fontAlign=50&fontAlignY=45&color=0:001a00,100:00ff99&fontColor=00ff99&fontSize=55&animation=fadeIn"
     alt="Amir Mesfin Hacker Banner"
   />
 </p>
+
 
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amir-mesfin&style=for-the-badge&color=ff69b4" alt="Profile views"/>
