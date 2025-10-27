@@ -1,4 +1,14 @@
 <div align="center">
+  <!-- 💫 Ultimate GitHub Profile README for Amir Mesfin -->
+
+<!-- 🎨 Animated Gradient Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amir%20Mesfin%20👨‍💻&fontAlign=50&fontAlignY=40&color=0:5a3510,100:d4a017&fontColor=ffffff&fontSize=50&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20UI%2FUX&descAlignY=60&descAlign=50"
+    alt="Amir Mesfin Banner"
+  />
+</p>
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amir-mesfin&style=for-the-badge&color=ff69b4" alt="Profile views"/>
 </div>
 
