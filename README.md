@@ -47,14 +47,13 @@
 </div>
 
 
-<h3> 🌟 Featured Projects </h3>
-
+<!-- <h3> 🌟 Featured Projects </h3>
 | Project        | Description                     | Tech Stack                   | Live Demo                                      |
 | -------------- | ------------------------------- | ---------------------------- | ---------------------------------------------- |
 | <h4> 🎬Movie-Streaming-App</h4> | Modern movie streaming platform | <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css" /> </div> |<a href="https://dessiemoviecenter.netlify.app/"><img src="https://img.shields.io/badge/🎬_Movie_App-FF5722?style=for-the-badge" alt="Movie App"></a>|
 | <h4> 🛍️ DessieMart</h4> | E-commerce platform    |   <div align="center"> <img src="https://skillicons.dev/icons?i=react,materialui,github,vscode,css,expressjs,firebase" /> </div> <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">    | <a href="https://dessiemart.netlify.app/"><img src="https://img.shields.io/badge/🛒_E-commerce-4CAF50?style=for-the-badge" alt="E-commerce"></a> |
 | <h4> 🏠 Abushe Real Estate</h4> | Real estate platform for property sales & rentals | <div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,express,mongodb,github,vscode,css,firebase" /> </div> | <a href="https://abushe-real-state.netlify.app/"><img src="https://img.shields.io/badge/🏠_Real_Estate-2196F3?style=for-the-badge" alt="Real Estate"></a> |
-| <h4> 🍽️ ማም ሬስቶራንት </h4> | ማም ሬስቶራንት DEGITAL MENU | <div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,express,mongodb,github,vscode,css" /> </div> | <a href="https://mam-restaurant.netlify.app/"><img src="https://img.shields.io/badge/🍽️_Restaurant-FF6B6B?style=for-the-badge" alt="Mam Restaurant"></a> |
+| <h4> 🍽️ ማም ሬስቶራንት </h4> | ማም ሬስቶራንት DEGITAL MENU | <div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind,express,mongodb,github,vscode,css" /> </div> | <a href="https://mam-restaurant.netlify.app/"><img src="https://img.shields.io/badge/🍽️_Restaurant-FF6B6B?style=for-the-badge" alt="Mam Restaurant"></a> | -->
 
 
 
